@@ -1,0 +1,22 @@
+{
+  "name": "lets-chat-qcloud",
+  "version": "0.0.1",
+  "description": "qcloud add-on for Let's Chat",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/losingle/lets-chat-qcloud.git"
+  },
+  "author": {
+    "name": "James Ting",
+    "email": "losingle@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/losingle/lets-chat-qcloud/issues"
+  },
+  "homepage": "https://github.com/losingle/lets-chat-qcloud",
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.3.10"
+  },
+  "peerDependencies": {}
+}
